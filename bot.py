@@ -5,7 +5,7 @@ import random
 import time
 
 jokes={
-    "Why did the chicken cross the rode?": "To escape from the KFC chef!",
+    "Why did the chicken cross the road?": "To escape from the KFC chef!",
     "What is invisible and smells like carrots?": "Rabbit flatulence!"
 }
 
